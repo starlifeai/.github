@@ -4,4 +4,4 @@
 
 1. 2nd clinic deployed
 2. Hired founding robotics engineer
-3. something technical
+3. Migrate to mature codebase
