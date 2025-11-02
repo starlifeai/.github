@@ -1,11 +1,7 @@
-# Welcome to Starlife AI
+# Starlife AI
 
-We are building innovative AI solutions to transform the future.
+## Top 3 Goals for November
 
-## About Us
-
-Starlife AI is dedicated to advancing artificial intelligence technology and creating impactful solutions.
-
-## Get Involved
-
-We welcome contributions and collaboration! Check out our repositories to learn more about our projects.
+1. 2nd clinic deployed
+2. Hired founding robotics engineer
+3. something technical
