@@ -11,6 +11,7 @@
 - [-] Completed Bella hardware design + Rahul work trial // Failed. Completed work trial. Decided not to hire Rahul. Defined Bella hardware BOM.
 
 ### Top 3 goals for 2025-CW48
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] ⁠Reach out to 500 qualified candidates
+- [ ] Integrate better audio hardware
+- [ ] ⁠Deploy 2nd robot
+
